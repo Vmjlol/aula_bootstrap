@@ -1,0 +1,51 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.img-eye {
+    border-radius: 50%;
+}
+
+.navbar {
+    background-color: rgba(175,238,238,.5);
+}
+
+.quem-somos {
+    background-color: #E6E6FA;
+    color:royalblue;
+}
+
+#quemsomos h3 {
+    padding-top: 10px;
+}
+
+.margin {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.parceiros {
+    background-color: rgba(255,165,0,.3);
+}
+
+#parceiros .container p {
+    padding-top: 10px;
+}
+
+#servicos .container img {
+    border-radius: 10%;
+}
+
+.servicos {
+    background-color: rgba(140,220,100,.3);
+}
+
+.texto-h3 {
+    color:royalblue;
+}
+
+.bg-footer {
+    background-color: rgb(236, 226, 226);
+    color: royalblue;
+    padding-top: 10px;
+}
